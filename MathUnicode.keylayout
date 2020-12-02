@@ -448,7 +448,8 @@
             <key code="41" output="…"/>
             <key code="42" action="alt bslash"/>
             <key code="43" action="alt ,"/>
-            <key code="44" action="alt slash"/>
+            <!-- <key code="44" action="alt slash"/> -->
+            <key code="44" output="✔"/>
             <key code="45" output="ν"/>
             <key code="46" output="μ"/>
             <key code="47" action="alt ."/>
